@@ -14,6 +14,8 @@ Save any song downloaded on your JioSaavn App to your local storage.
 - Click Save.
 - Song will be saved to your Local Storage.
 
+- *PROVIDE APP PERMISSIONS MANUALLY.*
+
 ### App Download Link:
 - [Download](https://drive.google.com/drive/folders/1t8KAydZPDFk330irLYu4SeEiIdWhzzhM?usp=sharing)
 
